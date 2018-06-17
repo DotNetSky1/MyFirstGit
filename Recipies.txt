@@ -6,3 +6,10 @@ add some recipies.
 1-pizza
 2-burger
 3-pasta
+
+4-beans
+5-biryani
+
+
+
+thank you :)
